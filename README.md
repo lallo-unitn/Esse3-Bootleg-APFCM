@@ -38,7 +38,6 @@ Esse3-Bootleg follows the MVC (Model-View-Controller) design pattern:
 
 1. **Prerequisites:** Ensure Docker and Docker Compose are installed. Make sure ports 3306, 8080, 8443, and 9990 are available.
 2. **Deployment:**
-   - Unzip the project archive.
    - Navigate to the project directory and run: `docker-compose up --remove-orphans`.
    - Access the web application at: [https://0.0.0.0:8443/adv_prog_project_war/](https://0.0.0.0:8443/adv_prog_project_war/).
 3. **Testing Roles:**
