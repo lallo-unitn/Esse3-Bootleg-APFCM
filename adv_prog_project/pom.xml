@@ -70,6 +70,7 @@
     </dependencies>
 
     <build>
+        <finalName>adv_prog_project_war</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>

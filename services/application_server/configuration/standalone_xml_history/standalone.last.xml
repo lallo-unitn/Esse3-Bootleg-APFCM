@@ -514,9 +514,4 @@
             <remote-destination host="${jboss.mail.server.host:localhost}" port="${jboss.mail.server.port:25}"/>
         </outbound-socket-binding>
     </socket-binding-group>
-    <deployments>
-        <deployment name="adv_prog_project-1.0-SNAPSHOT.war" runtime-name="adv_prog_project-1.0-SNAPSHOT.war">
-            <content sha1="15c763601c954c4d1d58c4f10358fb89b2c497e3"/>
-        </deployment>
-    </deployments>
 </server>
